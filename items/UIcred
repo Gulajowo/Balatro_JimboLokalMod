@@ -1,0 +1,14 @@
+local Jimbolokal = SMODS.current_mod
+local config = Jimbolokal.config
+
+G.Jimbolokal = {
+    Credits = {
+        Someone = {
+            name = "Gulajowo",
+            role = "Programmer, Artist",
+            links = {
+                { 'Youtube', 'https://www.youtube.com/@gulajowo' }
+            },
+        }
+        }
+}
