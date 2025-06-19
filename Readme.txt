@@ -15,4 +15,12 @@ Kami juga ingin mengucapkan terima kasih kepada Yahiamice karena mod ini sangat 
 Silakan coba dan berikan masukan jika ada saran atau bug yang ditemukan. Selamat bermain!
 
 
+---------------CARA INSTALL----------------------
+Instal Lovely Injector: Unduh dari https://github.com/ethangreen-dev/lovely-injector
+
+Unduh Steamodded dan tambahkan ke folder %AppData%\Roaming\Balatro\mods
+
+Tautan unduhan: https://github.com/Steamodded/smods
+
+
 Balatro bukan permainan judi. ini permainan game strategi berbasis kartu! tidak ada uang asli atau taruhan yang di gunakan dalam permainan ini. semua nama disini hanyalah plesetan/tiruan nama tidak bermaksud menyinggung.
