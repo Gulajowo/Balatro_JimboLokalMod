@@ -1,0 +1,16 @@
+[manifest]
+version = "1.0.0"
+dump_lua = true
+priority = -1
+
+
+[[patches]]
+[patches.pattern]
+target = "card.lua"
+pattern = "sliced_card.getting_sliced = true"
+position = "after"
+payload = '''
+G.hasajokerbeendestroyedthistick_unused = true
+'''
+match_indent = false
+

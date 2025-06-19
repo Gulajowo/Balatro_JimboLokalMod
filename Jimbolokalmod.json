@@ -1,0 +1,23 @@
+{
+	"id": "Jimbolokal",
+	"name": "Jimbolokal",
+	"display_name": "Jimbolokal",
+	"author": [
+		"gulajowo & 1stTHESTAR"
+	],
+	"description": "Ini versi 1. beta test https://www.youtube.com/@gulajowo, https://www.instagram.com/rizqan_b/",
+	"prefix": "jimbolokal",
+	"main_file": "core.lua",
+	"priority": 0,
+	"badge_colour": "a52a2a",
+	"badge_text_colour": "FFFFFF",
+	"version": "2.0",
+	"dependencies": [
+		"Lovely (>=0.7)",
+		"Balatro (>=1.0.1o)"
+	],
+	"conflicts": [
+	"Talisman (<=2.0.2)",
+	"Cryptid (<<0.5.4)"
+	]
+}
